@@ -1,0 +1,105 @@
+.title {
+  background-color: #ccc11e;
+  font-size: 20px;
+  padding: 10px;
+  margin-bottom: 0px;
+}
+
+/* button:hover {
+  background: rgba(255, 255, 0, 0.5);
+} */
+
+.button {
+  /* display: inline-block; */
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #ffffff;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 500px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+/* Kristina */
+
+/* .b1 {
+  border-radius: 2px;
+  box-shadow: 1px 1px 3px #aaa;
+  background: #fff;
+  font: bold 18px Arial;
+  color: #555;
+  cursor: pointer;
+  padding: 10px 50px;
+}
+.b1:hover {
+  background-color: #90ee90;
+  color: white;
+}
+.b2 {
+  border-radius: 2px;
+  box-shadow: 1px 1px 3px #aaa;
+  background: #fff;
+  font: bold 18px Arial;
+  color: #555;
+  cursor: pointer;
+  padding: 10px 50px;
+}
+.b3 {
+  border-radius: 2px;
+  box-shadow: 1px 1px 3px #aaa;
+  background: #fff;
+  font: bold 18px Arial;
+  color: #555;
+  cursor: pointer;
+  padding: 10px 50px;
+}
+.b4 {
+  border-radius: 2px;
+  box-shadow: 1px 1px 3px #aaa;
+  background: #fff;
+  font: bold 18px Arial;
+  color: #555;
+  cursor: pointer;
+  padding: 10px 50px;
+}
+.b2:hover {
+  background-color: #ffc0cb;
+  color: white;
+}
+.b3:hover {
+  background-color: #f0e68c;
+  color: white;
+}
+.b4:hover {
+  background-color: #b0e0e6;
+  color: white;
+} */

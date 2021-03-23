@@ -1,0 +1,81 @@
+[01-Nov-2020 22:46:35 Europe/Paris] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/dailyfre/public_html/projetphp/db_config.php on line 2
+[01-Nov-2020 22:46:35 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dailyfre/public_html/projetphp/annotation.php on line 73
+[01-Nov-2020 22:46:35 Europe/Paris] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/dailyfre/public_html/projetphp/annotation.php on line 74
+[01-Nov-2020 22:46:35 Europe/Paris] PHP Notice:  Trying to access array offset on value of type null in /home/dailyfre/public_html/projetphp/annotation.php on line 75
+[01-Nov-2020 22:47:31 Europe/Paris] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/dailyfre/public_html/projetphp/db_config.php on line 2
+[01-Nov-2020 22:47:31 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dailyfre/public_html/projetphp/annotation.php on line 73
+[01-Nov-2020 22:47:31 Europe/Paris] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/dailyfre/public_html/projetphp/annotation.php on line 74
+[01-Nov-2020 22:47:31 Europe/Paris] PHP Notice:  Trying to access array offset on value of type null in /home/dailyfre/public_html/projetphp/annotation.php on line 75
+[01-Nov-2020 22:47:32 Europe/Paris] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/dailyfre/public_html/projetphp/db_config.php on line 2
+[01-Nov-2020 22:47:32 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dailyfre/public_html/projetphp/annotation.php on line 73
+[01-Nov-2020 22:47:32 Europe/Paris] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/dailyfre/public_html/projetphp/annotation.php on line 74
+[01-Nov-2020 22:47:32 Europe/Paris] PHP Notice:  Trying to access array offset on value of type null in /home/dailyfre/public_html/projetphp/annotation.php on line 75
+[01-Nov-2020 22:47:58 Europe/Paris] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/dailyfre/public_html/projetphp/db_config.php on line 2
+[01-Nov-2020 22:47:58 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dailyfre/public_html/projetphp/annotation.php on line 73
+[01-Nov-2020 22:47:58 Europe/Paris] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/dailyfre/public_html/projetphp/annotation.php on line 74
+[01-Nov-2020 22:47:58 Europe/Paris] PHP Notice:  Trying to access array offset on value of type null in /home/dailyfre/public_html/projetphp/annotation.php on line 75
+[01-Nov-2020 22:54:13 Europe/Paris] PHP Notice:  Undefined variable: mysqli in /home/dailyfre/public_html/projetphp/db_config.php on line 10
+[01-Nov-2020 22:54:13 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dailyfre/public_html/projetphp/db_config.php:10
+Stack trace:
+#0 /home/dailyfre/public_html/projetphp/annotation.php(3): require()
+#1 {main}
+  thrown in /home/dailyfre/public_html/projetphp/db_config.php on line 10
+[01-Nov-2020 22:54:13 Europe/Paris] PHP Notice:  Undefined variable: mysqli in /home/dailyfre/public_html/projetphp/db_config.php on line 10
+[01-Nov-2020 22:54:13 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dailyfre/public_html/projetphp/db_config.php:10
+Stack trace:
+#0 /home/dailyfre/public_html/projetphp/annotation.php(3): require()
+#1 {main}
+  thrown in /home/dailyfre/public_html/projetphp/db_config.php on line 10
+[01-Nov-2020 22:54:14 Europe/Paris] PHP Notice:  Undefined variable: mysqli in /home/dailyfre/public_html/projetphp/db_config.php on line 10
+[01-Nov-2020 22:54:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dailyfre/public_html/projetphp/db_config.php:10
+Stack trace:
+#0 /home/dailyfre/public_html/projetphp/annotation.php(3): require()
+#1 {main}
+  thrown in /home/dailyfre/public_html/projetphp/db_config.php on line 10
+[01-Nov-2020 22:54:15 Europe/Paris] PHP Notice:  Undefined variable: mysqli in /home/dailyfre/public_html/projetphp/db_config.php on line 10
+[01-Nov-2020 22:54:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dailyfre/public_html/projetphp/db_config.php:10
+Stack trace:
+#0 /home/dailyfre/public_html/projetphp/annotation.php(3): require()
+#1 {main}
+  thrown in /home/dailyfre/public_html/projetphp/db_config.php on line 10
+[01-Nov-2020 22:54:15 Europe/Paris] PHP Notice:  Undefined variable: mysqli in /home/dailyfre/public_html/projetphp/db_config.php on line 10
+[01-Nov-2020 22:54:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dailyfre/public_html/projetphp/db_config.php:10
+Stack trace:
+#0 /home/dailyfre/public_html/projetphp/annotation.php(3): require()
+#1 {main}
+  thrown in /home/dailyfre/public_html/projetphp/db_config.php on line 10
+[01-Nov-2020 22:54:15 Europe/Paris] PHP Notice:  Undefined variable: mysqli in /home/dailyfre/public_html/projetphp/db_config.php on line 10
+[01-Nov-2020 22:54:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dailyfre/public_html/projetphp/db_config.php:10
+Stack trace:
+#0 /home/dailyfre/public_html/projetphp/annotation.php(3): require()
+#1 {main}
+  thrown in /home/dailyfre/public_html/projetphp/db_config.php on line 10
+[02-Nov-2020 02:01:59 Europe/Paris] PHP Notice:  Undefined index: nom in /home/dailyfre/public_html/projetphp/annotation.php on line 5
+[02-Nov-2020 02:01:59 Europe/Paris] PHP Notice:  Undefined index: prenom in /home/dailyfre/public_html/projetphp/annotation.php on line 6
+[02-Nov-2020 02:01:59 Europe/Paris] PHP Notice:  Undefined index: clicks in /home/dailyfre/public_html/projetphp/annotation.php on line 36
+[02-Nov-2020 02:01:59 Europe/Paris] PHP Notice:  Undefined index: clicks in /home/dailyfre/public_html/projetphp/annotation.php on line 37
+[03-Nov-2020 11:21:26 Europe/Paris] PHP Notice:  Undefined index: nom in /home/dailyfre/public_html/projetphp/annotation.php on line 5
+[03-Nov-2020 11:21:26 Europe/Paris] PHP Notice:  Undefined index: prenom in /home/dailyfre/public_html/projetphp/annotation.php on line 6
+[03-Nov-2020 11:21:26 Europe/Paris] PHP Notice:  Undefined index: clicks in /home/dailyfre/public_html/projetphp/annotation.php on line 36
+[03-Nov-2020 11:21:26 Europe/Paris] PHP Notice:  Undefined index: clicks in /home/dailyfre/public_html/projetphp/annotation.php on line 37
+[03-Nov-2020 19:28:19 Europe/Paris] PHP Notice:  Undefined index: nom in /home/dailyfre/public_html/projetphp/annotation.php on line 5
+[03-Nov-2020 19:28:19 Europe/Paris] PHP Notice:  Undefined index: prenom in /home/dailyfre/public_html/projetphp/annotation.php on line 6
+[03-Nov-2020 19:28:27 Europe/Paris] PHP Notice:  Undefined index: nom in /home/dailyfre/public_html/projetphp/annotation.php on line 5
+[03-Nov-2020 19:28:27 Europe/Paris] PHP Notice:  Undefined index: prenom in /home/dailyfre/public_html/projetphp/annotation.php on line 6
+[05-Jan-2021 07:52:36 Europe/Paris] PHP Notice:  Undefined index: n_etu in /home/dailyfre/public_html/projetphp/verification.php on line 31
+[05-Jan-2021 07:52:36 Europe/Paris] PHP Notice:  Undefined index: nom in /home/dailyfre/public_html/projetphp/verification.php on line 32
+[05-Jan-2021 07:52:36 Europe/Paris] PHP Notice:  Undefined index: prenom in /home/dailyfre/public_html/projetphp/verification.php on line 33
+[05-Jan-2021 07:52:36 Europe/Paris] PHP Notice:  Undefined index: prenom in /home/dailyfre/public_html/projetphp/verification.php on line 34
+[05-Jan-2021 07:52:36 Europe/Paris] PHP Notice:  Undefined index: prenom in /home/dailyfre/public_html/projetphp/verification.php on line 35
+[05-Jan-2021 07:52:36 Europe/Paris] PHP Notice:  Undefined index: n_etu in /home/dailyfre/public_html/projetphp/verification.php on line 36
+[05-Jan-2021 07:52:36 Europe/Paris] PHP Notice:  Undefined index: mdp in /home/dailyfre/public_html/projetphp/verification.php on line 37
+[05-Jan-2021 07:52:36 Europe/Paris] PHP Notice:  Undefined index: nom in /home/dailyfre/public_html/projetphp/annotation.php on line 5
+[05-Jan-2021 07:52:36 Europe/Paris] PHP Notice:  Undefined index: prenom in /home/dailyfre/public_html/projetphp/annotation.php on line 6
+[05-Jan-2021 07:52:36 Europe/Paris] PHP Notice:  Undefined index: clicks in /home/dailyfre/public_html/projetphp/annotation.php on line 36
+[05-Jan-2021 07:52:36 Europe/Paris] PHP Notice:  Undefined index: clicks in /home/dailyfre/public_html/projetphp/annotation.php on line 37
+[22-Mar-2021 23:57:01 Europe/Paris] PHP Notice:  Undefined index: nom in /home/dailyfre/public_html/projetphp/annotation.php on line 5
+[22-Mar-2021 23:57:01 Europe/Paris] PHP Notice:  Undefined index: prenom in /home/dailyfre/public_html/projetphp/annotation.php on line 6
+[22-Mar-2021 23:57:05 Europe/Paris] PHP Notice:  Undefined index: nom in /home/dailyfre/public_html/projetphp/annotation.php on line 5
+[22-Mar-2021 23:57:05 Europe/Paris] PHP Notice:  Undefined index: prenom in /home/dailyfre/public_html/projetphp/annotation.php on line 6
+[22-Mar-2021 23:57:14 Europe/Paris] PHP Notice:  Undefined index: nom in /home/dailyfre/public_html/projetphp/annotation.php on line 5
+[22-Mar-2021 23:57:14 Europe/Paris] PHP Notice:  Undefined index: prenom in /home/dailyfre/public_html/projetphp/annotation.php on line 6
