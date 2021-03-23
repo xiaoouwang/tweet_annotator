@@ -58,7 +58,7 @@
           Connecter
         </button>
       </div>
-      <p class="mt-5 mb-3 text-muted">&copy; 2020</p>
+      <p class="mt-5 mb-3 text-muted">&copy; 2020 by <a style = "color:blue;text-decoration:underline;" href="http://xiaoouwang.github.io">Xiaoou WANG</a></p>
     </form>
   </body>
 </html>
